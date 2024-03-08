@@ -1,1 +1,1 @@
-URI- #311265601843.dkr.ecr.ap-south-1.amazonaws.com/kidney
+Job applying NLP based Auto-Bot 
