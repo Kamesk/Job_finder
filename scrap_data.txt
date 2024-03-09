@@ -1,0 +1,131 @@
+<!---->Senior MLops Engineer<!---->
+
+                Logically
+              
+content_1 = 
+              <ul>
+                    <li class="job-details-jobs-unified-top-card__job-insight job-details-jobs-unified-top-card__job-insight--highlight">
+                      <div class="flex-shrink-zero mr2 t-black--light">
+                        
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+        <li-icon aria-hidden="true" type="job" class=" " size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M17 6V5a3 3 0 00-3-3h-4a3 3 0 00-3 3v1H2v4a3 3 0 003 3h14a3 3 0 003-3V6zM9 5a1 1 0 011-1h4a1 1 0 011 1v1H9zm10 9a4 4 0 003-1.38V17a3 3 0 01-3 3H5a3 3 0 01-3-3v-4.38A4 4 0 005 14z"></path>
+    </svg></li-icon>
+    </div>
+  
+          </div>
+  
+                      </div>
+                      <span>
+<!---->
+                            <span>
+                              
+    <span class="ui-label ui-label--accent-3 text-body-small">
+      <span aria-hidden="true"><!---->Remote<!----></span><span class="visually-hidden"><!---->Matches your job preferences, workplace type is Remote.<!----></span>
+    </span>
+  
+                            </span>
+<!---->
+                            <span class="job-details-jobs-unified-top-card__job-insight-view-model-secondary">
+                              
+    <span class="ui-label ui-label--accent-3 text-body-small">
+      <span aria-hidden="true"><!---->Full-time<!----></span><span class="visually-hidden"><!---->Matches your job preferences, job type is Full-time.<!----></span>
+    </span>
+  
+                            </span>
+                            <span class="job-details-jobs-unified-top-card__job-insight-view-model-secondary">
+                              <!---->Mid-Senior level<!---->
+                            </span>
+
+<!---->                      </span>
+                    </li>
+                                      <li class="job-details-jobs-unified-top-card__job-insight">
+                      <div class="flex-shrink-zero mr2 t-black--light">
+                        
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+        <li-icon aria-hidden="true" type="company" class=" " size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M4 2v20h16V2zm14 18h-4v-2h-4v2H6V4h12zm-7-8H8v-2h3zm0 4H8v-2h3zm5-4h-3v-2h3zm-5-4H8V6h3zm5 0h-3V6h3zm0 8h-3v-2h3z"></path>
+    </svg></li-icon>
+    </div>
+  
+          </div>
+  
+                      </div>
+                      <span>
+                        <!---->51-200 employees · Information Technology &amp; Services<!---->
+                      </span>
+                    </li>
+                    <li class="job-details-jobs-unified-top-card__job-insight">
+                      <div class="flex-shrink-zero mr2 t-black--light">
+                        
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+        <li-icon aria-hidden="true" type="people" class=" " size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+      <path d="M12 16v6H3v-6a3 3 0 013-3h3a3 3 0 013 3zm5.5-3A3.5 3.5 0 1014 9.5a3.5 3.5 0 003.5 3.5zm1 2h-2a2.5 2.5 0 00-2.5 2.5V22h7v-4.5a2.5 2.5 0 00-2.5-2.5zM7.5 2A4.5 4.5 0 1012 6.5 4.49 4.49 0 007.5 2z"></path>
+    </svg></li-icon>
+    </div>
+  
+          </div>
+  
+                      </div>
+                      <span>
+                        <a class="app-aware-link " target="_self" href="https://www.linkedin.com/search/results/people/?origin=JOB_PAGE_CANNED_SEARCH&amp;currentCompany=%5B18442132%5D&amp;pastCompany=%5B1586%5D" data-test-app-aware-link=""><!---->1 company alum works here<!----></a>
+                      </span>
+                    </li>
+                        <li class="job-details-jobs-unified-top-card__job-insight">
+                          <div class="flex-shrink-zero mr2 t-black--light">
+                            
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+        <svg role="none" aria-hidden="true" class="  rtl-flip" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="checklist-medium">
+<!---->    
+
+    <use href="#checklist-medium" width="24" height="24"></use>
+</svg>
+
+    </div>
+  
+          </div>
+  
+                          </div>
+                          <button class="job-details-jobs-unified-top-card__job-insight-text-button" aria-label="View strong skill match modal" tabindex="-1" type="button">
+                            <a class="app-aware-link " target="_self" href="#HYM" data-test-app-aware-link=""><!---->8 of 8 skills match your profile - you may be a good fit<!----></a>
+                          </button>
+                        </li>
+<!---->                        <li class="job-details-jobs-unified-top-card__job-insight job-details-jobs-unified-top-card__job-insight--highlight">
+                          <div class="flex-shrink-zero mr2 t-black--light">
+                            
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+        <svg role="none" aria-hidden="true" class=" " xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="lightbulb-medium">
+<!---->    
+
+    <use href="#lightbulb-medium" width="24" height="24"></use>
+</svg>
+
+    </div>
+  
+          </div>
+  
+                          </div>
+                          <span>
+                            <!---->See recent hiring trends for Logically.<span class="white-space-pre"> </span><a class="app-aware-link " target="_self" href="https://www.linkedin.com/premium/products/?family=JSS&amp;upsellOrderOrigin=premium_job_details_summary_card&amp;utype=job&amp;referenceId=wlDYMQMrT2epSYAi2rAy9A%3D%3D" data-test-app-aware-link=""><!---->Reactivate Premium<!----></a>
+                          </span>
+                        </li>
+              </ul>
+          
+content_2
+                <p><!---->About Logically<!----></p><p><br></p><p><!---->Founded in 2017, Logically combines artificial intelligence with expert analysts to tackle harmful and manipulative content at speed and scale. We work to reduce the individual, institutional, and societal damage caused by misleading and deceptive online discourse. In 2021, the company launched its threat intelligence platform - Logically Intelligence - to help governments and organisations monitor the spread of damaging narratives.<!----></p><p><!---->In 2023, the company announced its new independent fact-checking unit - Logically Facts - to help deliver accurate fact-checks at scale and provide people with more reliable and accurate information.<span class="white-space-pre"> </span></p><p><br></p><p><!---->Logically has been named one of the world’s most innovative artificial intelligence companies by Fast Company and won the Rising Star in TechCogX Award.<!----></p><p><br></p><p><!---->The company has offices in the UK, US, and India. For more information, please visit<span class="white-space-pre"> </span><a class="app-aware-link " target="_blank" href="http://logically.ai/" data-test-app-aware-link=""><!---->Logically.ai<!----></a></p><p><br></p><p><br></p><p><!---->As an MLOps engineer within the DevOps function, you will help build best-in-class Machine Learning(ML) infrastructure to enable Logically’s AI initiatives. You will lead and drive the deployment, life cycle management and monitoring of Machine Learning(ML) and Deep Learning (DL) models in all stages leading to production. You will work directly with Data Scientists and the Data Platform Engineering team to productionize ML/DL models developed for cloud and edge environments. With your experience in MLOps tools and frameworks, you will work to improve Data scientist and Data engineer productivity and delivery speed by enabling them to be more self-sufficient with automated operational processes.<!----></p><p><span class="white-space-pre"> </span><!----><!----></p><p><!---->Responsibilities and Performance Objectives:<!----></p><p><!---->Define, deploy and manage processes and tools for continuous integration (CI/CD), test-driven development, and release management for ML/DL models (Machine Learning and Deep Learning based) and data pipelines.<!----></p><p><!---->Provision and configure secure high performance computing environments (clusters, storage, API gateways etc ) to support hosting of ML/DL models at scale<!----></p><p><!---->Code and/or script solutions to automate processes for ML/DL model deployments, retraining, testing and monitoring.<!----></p><p><!---->Collaborate with Data Scientists, Data Engineers, ML Engineers, cloud platform and application engineers to create and implement cloud policies and governance for ML/DL model lifecycle.<!----></p><p><!---->Ensures adherence to performance standards and compliance to data and model security requirements.<!----></p><p><a class="app-aware-link " target="_blank" href="http://requirements.keep/" data-test-app-aware-link=""><!---->Keep<!----></a><span class="white-space-pre"> </span>up with emerging best practices in MLOps and drive adoption as necessary.<!----></p><p><span class="white-space-pre"> </span><!----><!----></p><p><!---->The wider responsibilities of the DevOps team include<!----></p><p><a class="app-aware-link " target="_blank" href="http://cycle.build/" data-test-app-aware-link=""><!---->Build<!----></a><!---->ing and improvise the automated tools to build infrastructure, monitoring and alerting system and visualization<!----></p><p><!---->Providing infrastructure resource and support<!----></p><p><!---->Providing centralised services and infrastructure for consumption from the rest of Technology, including support for enterprise secrets, logging and observability platforms and Kubernetes as a service<!----></p><p><span class="white-space-pre"> </span><!----><!----></p><p><!---->Required Attributes:<!----></p><p><!---->Bachelor’s degree in Computer Science,<!----></p><p><!---->Software Engineering or a related field with 5-8 years’ experience.<!----></p><p><!---->Experience in AWS, Terraform, Docker, Kubernetes<!----></p><p><!---->Strong experience in DevOps combined with AWS technologies such as EC2, ELB, Auto Scaling, Route 53, S3, Cloud Formation, and Cloudwatch<!----></p><p><!---->Prior experience in deploying enterprise-scale machine learning solutions. Hands-on experience in one or more MLOps tools such as Kubeflow, MLFlow, Pachyderm, DVC<span class="white-space-pre"> </span><a class="app-aware-link " target="_blank" href="http://etc.experience/" data-test-app-aware-link=""><!---->etc.<!----></a></p><p><!---->Strong experience in Deployment (CI/CD) tools: e.g. GitHub Actions or Bitbucket pipelines.<!----></p><p><span class="white-space-pre"> </span><!----><!----></p><p><!---->Desired Attributes:<!----></p><p><!---->Experience with ETL technologies such as Apache Spark and Databricks<!----></p><p><!---->Experience in GCP<!----></p><p><!---->Experience with GIT and monitoring and observability solutions<!----></p><p><!---->Python<!----></p><p><!---->Benefits<!----></p><p><!---->- Unlimited Holidays!<!----></p><p><!---->- Company Performance related Bonus<!----></p><p><!---->- Private Medical<!----></p><p><!---->- A remote-first working location policy<!----></p><p><!---->- Ability to work from anywhere in the world for up to 8 weeks of the year<!----></p><p><!---->- Pension<!----></p><p><!---->- £250 work from home package to improve your home working environment<!----></p><p><!---->- Mental Health Aid<!----></p><p><!---->- L&amp;D Perks<!----></p><p><!---->- Quarterly Social events<!----></p>
+<!---->    

@@ -14,3 +14,7 @@ else:
     print("No input provided.")
 
 root.destroy()
+
+key = b'Z1IHJtIquAGruPsZjsQhjZJE0Zv9-M3iR1KsQWqm5hg='
+encrypted_username = b'gAAAAABl64ZdN0uwCjOn--GDF6MQf7dl2u1Li_2YMMfsoXE32wFh5Ck4RliaUICvKYjvqY66lARxhxxKS6GmcdZd7yyh3oFxcw4IoctdnJVh72hkQ40x61s='
+encrypted_password = b'gAAAAABl64ZdHI4BJT1zkHoVzehdp9O9LLvHeKOt8ZY5CACwvnLgUWldUFh42FrXIA1jf6CxxDfi67h-_DQk-L_DfBvtklpfhQ=='
