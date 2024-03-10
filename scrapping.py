@@ -11,6 +11,9 @@ from credentials import decrypt_credentials
 from bs4 import BeautifulSoup
 from path import *
 import User_input
+from content_extractor import token_extractor
+from  write import extract_info
+
 
 class JobScraper:
     def __init__(self):
@@ -27,7 +30,7 @@ class JobScraper:
         pass_input.send_keys(password)
         log_button = self.driver.find_element(By.XPATH, log_submit)
         log_button.click()
-        time.sleep(5)
+        time.sleep(40)
 
     def search_jobs(self):
         self.driver.find_element(By.XPATH, jobs_button).click()
@@ -77,21 +80,16 @@ class JobScraper:
             time.sleep(5)
             content_2 = self.driver.find_element(By.XPATH, content_down).get_attribute("innerHTML")
             time.sleep(2)
-            self.token_extractor(content_1, content_2)
-    def token_extractor(self,content_1, content_2):
-        combined_content = content_1 + content_2 
-        soup = BeautifulSoup(combined_content, 'html.parser')
-        text_elements = soup.find_all(text=True)
-        for element in text_elements:
-            if element.strip():
-                print(element.strip())
-                
+            stripped_data = token_extractor(content_1, content_2)
+            extracted_infos = extract_info(stripped_data)
+
+            print(extracted_infos)
+    
     def close(self):
         self.driver.quit()
 
-if __name__ == "__main__":
-    scraper = JobScraper()
-    scraper.search_jobs()
-    scraper.scrape_jobs()
-    scraper.token_extractor()
-    scraper.close()
+# if __name__ == "__main__":
+scraper = JobScraper()
+scraper.search_jobs()
+scraper.scrape_jobs()
+scraper.close()
