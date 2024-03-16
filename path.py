@@ -8,3 +8,7 @@ results = """/html/body/div[6]/div[3]/div[4]/section/div/section/div/div/div/ul/
 base_path = """/html/body/div[6]/div[3]/div[4]/div/div/main/div/div[2]/div[1]/div/ul/li"""
 content_up = """//*[@id="main"]/div/div[2]/div[2]/div/div[2]/div/div[1]/div/div[1]/div/div[1]/div[1]/div[3]"""
 content_down = """//*[@id="job-details"]/span"""
+pay_d = """//*[@id="main"]/div/div[2]/div[2]/div/div[2]/div/div[1]/div/div[1]/div/div[1]/div[1]/div[3]/ul/li[1]/span/span[1]"""
+level_d = """//*[@id="main"]/div/div[2]/div[2]/div/div[2]/div/div[1]/div/div[1]/div/div[1]/div[1]/div[3]/ul/li[1]/span/span[4]"""
+strength_d = """//*[@id="main"]/div/div[2]/div[2]/div/div[2]/div/div[1]/div/div[1]/div/div[1]/div[1]/div[3]/ul/li[2]/span"""
+skill_compare_d = """//*[@id="main"]/div/div[2]/div[2]/div/div[2]/div/div[1]/div/div[1]/div/div[1]/div[1]/div[3]/ul/li[3]"""
